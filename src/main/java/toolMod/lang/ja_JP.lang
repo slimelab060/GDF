@@ -1,0 +1,23 @@
+﻿
+itemGroup.tabtool=グリーンツール
+tile.green_ore.name=グリーン鉱石
+tile.green_block.name=グリーンブロック
+tile.green_TNT.name=グリーンTNT(クリエイティブのみ未完成)
+item.Green Pickaxe.name=グリーンのピッケル
+item.Green Sword.name=グリーンの剣
+item.Green Axe.name=グリーンのオノ
+item.Green Hoe.name=グリーンのクワ
+item.Green Shovel.name=グリーンのシャベル
+item.Green ingot.name=グリーンインゴット
+item.Green nugget.name=グリーンナゲット
+item.Green Bow.name=グリーンの弓(クリエイティブのみ未完成))
+item.Green Arrow.name=グリーンの矢(未完成)
+item.Greenstone Dust.name=グリーンダスト
+item.Green_Rod.name=グリーンロッド
+item.Green_Stick.name=グリーン棒
+item.Green_helmet.name=グリーンのヘルメット
+item.Green_chestplate.name=グリーンのチェストプレート
+item.Green_leggings.name=グリーンのレギンス
+item.Green_boots.name=グリーンのブーツ
+item.Green_Apple.name=§aグリーンのりんご
+
